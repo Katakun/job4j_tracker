@@ -8,9 +8,6 @@ public class Doctor extends Profession {
         this.specialization = specialization;
     }
 
-    public Doctor() {
-    }
-
     public String receipt() {
         return "";
     }

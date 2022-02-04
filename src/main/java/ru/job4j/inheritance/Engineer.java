@@ -8,9 +8,6 @@ public class Engineer extends Profession {
         this.portfolio = portfolio;
     }
 
-    public Engineer() {
-    }
-
     public int calculation(int smeta) {
         return -1;
     }
