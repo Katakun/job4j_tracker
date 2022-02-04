@@ -5,6 +5,5 @@ public class ATM {
         Account account = new Account();
         account.addMoney(100);
         account.addMoney(50);
-//        account.balance = 50;
     }
 }
